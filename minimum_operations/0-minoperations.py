@@ -1,3 +1,5 @@
+#!/usr/bin/python3
+
 def minOperations(n: int) -> int:
     """Return the minimal number of operations to reach n H's.
 
