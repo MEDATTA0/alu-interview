@@ -1,4 +1,6 @@
 #!/usr/bin/python3
+"""Compute minimal operations to reach n 'H's using Copy All and Paste."""
+
 
 def minOperations(n: int) -> int:
     """Return the minimal number of operations to reach n H's.
